@@ -14,3 +14,4 @@ for i in range(999):
                 if k * 100 % x == k * 100:
                     if k * 1000 % x == 0:
                         print(dividend, divisor)
+# Hello
